@@ -9,6 +9,7 @@ El objetivo principal es determinar si la adición de micro-texturas en la super
 * **Análisis de Datos:** Microsoft Power BI (Power Query, DAX).
 * **Simulación:** Python (Procesamiento de modelos de lubricación elastohidrodinámica).
 * **Metodología:** Ciclo de vida de BI (Extracción, Transformación, Carga y Visualización).
+* **Generativas:** ClaudeIA
 
 ## 🔍 Hallazgos Clave (Minería de Datos)
 * **Reducción de Fricción:** Se identificó una disminución del **COF de hasta un 96.82%** en condiciones de alta carga ($E = 0.98$).
